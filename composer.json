@@ -1,0 +1,19 @@
+{
+	"name": "mwendell/afa-image-manager",
+	"type": "wordpress-plugin",
+	"require": {
+		"composer/installers": "^2"
+		},
+	"authors": [
+		{
+			"name": "Michael Wendell",
+			"email": "mwendell@kwyjibo.com",
+			"homepage": "http://kwyjibo.com"
+		}
+	],
+	"config": {
+		"allow-plugins": {
+			"composer/installers": true
+		}
+	}
+}

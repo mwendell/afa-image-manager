@@ -1,0 +1,9 @@
+# ignore dependencies
+/vendor
+
+# IDE & OS
+**/.DS_Store
+.DS_Store
+/.idea/
+.vscode
+.vscode/*
